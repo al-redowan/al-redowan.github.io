@@ -1,0 +1,170 @@
+{
+  "personal_info": {
+    "full_name": "Al Redowan Ahmed Fahim",
+    "display_name": "Al Redowan Ahmed Fahim",
+    "birth_date": "2006-01-06",
+    "age": 18,
+    "nationality": "Bangladeshi",
+    "status": "Student",
+    "profile_description": "A Good Man",
+    "location": {
+      "address": "Madanpur, Bandar, Narayangonj, Dhaka, Bangladesh",
+      "city": "Dhaka",
+      "country": "Bangladesh"
+    },
+    "contact": {
+      "phone": "+8801970402199",
+      "email": "fahimdj071@gmail.com",
+      "social_media": {
+        "facebook": "https://www.facebook.com/AR.ERROR.404",
+        "github": "https://al-redowan.github.io",
+        "instagram": "https://www.instagram.com/sinister.face0"
+      }
+    }
+  },
+  "education": [
+    {
+      "institution": "Sinha High School & College",
+      "degree": "Higher Secondary Certificate (HSC)",
+      "field_of_study": "Science",
+      "start_date": "2021-04",
+      "end_date": "2023-11",
+      "gpa": "3.25",
+      "status": "Completed"
+    },
+    {
+      "institution": "Madanpur Rahmania High School",
+      "degree": "Secondary School Certificate (SSC)",
+      "field_of_study": "Science",
+      "start_date": "2016-01",
+      "end_date": "2021-02",
+      "gpa": "3.83",
+      "status": "Completed"
+    }
+  ],
+  "work_experience": [
+    {
+      "position": "Math Teacher",
+      "company": "Knowledge Park Kindergarten",
+      "employment_type": "Teaching",
+      "start_date": "2024-01",
+      "end_date": "2024-07",
+      "duration": "7 months",
+      "responsibilities": [
+        "Teaching mathematics to kindergarten students",
+        "Developing educational materials",
+        "Student assessment and progress tracking"
+      ],
+      "skills_used": [
+        "Teaching",
+        "Problem-Solving",
+        "Communication"
+      ]
+    }
+  ],
+  "technical_skills": [
+    {
+      "category": "Programming Languages",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "HTML5",
+        "CSS3"
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "skills": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Express.js"
+      ]
+    },
+    {
+      "category": "Databases",
+      "skills": [
+        "MongoDB",
+        "MySQL"
+      ]
+    },
+    {
+      "category": "Tools & Technologies",
+      "skills": [
+        "Git",
+        "WordPress",
+        "Figma"
+      ]
+    },
+    {
+      "category": "Development Areas",
+      "skills": [
+        "Front-End Development",
+        "Full-Stack Development",
+        "Web Development"
+      ]
+    }
+  ],
+  "soft_skills": [
+    "Teamwork",
+    "Problem-Solving",
+    "Teaching",
+    "Communication",
+    "Leadership",
+    "Time Management",
+    "Adaptability"
+  ],
+  "languages": [
+    {
+      "language": "Bengali",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "interests_and_hobbies": [
+    "Music",
+    "Movies",
+    "Hacking",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Robotics",
+    "Programming",
+    "Esports",
+    "Technology Innovation"
+  ],
+  "projects": [
+    {
+      "name": "Portfolio Website",
+      "description": "Personal portfolio website built with React and TypeScript",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Shadcn-ui"
+      ],
+      "github_url": "https://al-redowan.github.io",
+      "status": "Completed"
+    }
+  ],
+  "certifications": [],
+  "achievements": [
+    {
+      "title": "High GPA in SSC",
+      "description": "Achieved 3.83 GPA in Secondary School Certificate",
+      "year": "2021"
+    },
+    {
+      "title": "Science Background",
+      "description": "Completed both SSC and HSC in Science group",
+      "year": "2023"
+    }
+  ],
+  "career_objective": "Passionate student and aspiring developer with interests in Machine Learning, AI, Robotics, and programming. Currently building skills in full-stack development while maintaining strong academic performance.",
+  "github_stats": {
+    "username": "al-redowan",
+    "profile_url": "https://github.com/al-redowan"
+  }
+}
