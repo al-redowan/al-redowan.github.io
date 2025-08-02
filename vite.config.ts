@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/remix"
 import path from 'path';
 import { defineConfig, loadEnv } from 'vite';
 
