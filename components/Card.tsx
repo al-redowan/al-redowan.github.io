@@ -1,6 +1,6 @@
 
 import React, { ReactNode } from 'react';
-
+import { Analytics } from "@vercel/analytics/react"
 interface CardProps {
   children: ReactNode;
   className?: string;
