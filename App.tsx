@@ -1,4 +1,4 @@
-
+import { Analytics } from "@vercel/analytics/react"
 import React from 'react';
 import { USER_INFO, TECH_STACK, SOCIAL_LINKS } from './constants';
 import Card from './components/Card';
