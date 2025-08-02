@@ -88,9 +88,12 @@ const App: React.FC = () => {
                 <span>{link.name}</span>
               </a>
             ))}
+            <Analytics />
           </div>
         </Card>
-
+           
+                
+              
         <footer className="text-center text-gray-500 text-sm py-4">
           <p>&copy; {new Date().getFullYear()} Al Redowan Ahmed Fahim. All rights reserved.</p>
         </footer>
