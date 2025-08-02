@@ -1,4 +1,4 @@
-
+import { Analytics } from "@vercel/analytics/react"
 import React from 'react';
 
 const IconWrapper: React.FC<{ children: React.ReactNode }> = ({ children }) => <span className="w-5 h-5">{children}</span>;
